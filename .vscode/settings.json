@@ -1,0 +1,10 @@
+{
+    "Lua.diagnostics.globals": [
+        "Color3",
+        "Instance",
+        "Enum",
+        "UDim2",
+        "game",
+        "UDim"
+    ]
+}
